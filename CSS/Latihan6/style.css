@@ -1,0 +1,23 @@
+.hello:link{
+    color: rgb(56, 89, 104);
+}
+.hello:hover{
+    color: rgb(58, 32, 117);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+}
+.hello:active{
+    font-style: italic;
+}
+.hello:visited{
+    color: tomato;
+}
+li:nth-child(odd) a {
+    color: rgb(43, 168, 226);
+}
+li:nth-child(odd) a:hover {
+    color: chartreuse;
+}
+p:first-of-type{
+    color: springgreen;
+}

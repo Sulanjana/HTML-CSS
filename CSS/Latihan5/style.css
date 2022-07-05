@@ -1,0 +1,18 @@
+body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h1, h2{
+    color: yellowgreen;
+}
+ul li a {
+    color: turquoise;
+}
+ol li a{
+    color: tomato;
+}
+#p1{
+    color: yellowgreen;
+}
+.p2{
+    color: turquoise;
+}

@@ -1,0 +1,11 @@
+body{
+    background-color: darkturquoise;
+    background-image: url(gambar/4.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
+    /* background: darkblue url(gambar/3.jpg) no-repeat center right; */
+}
+h1{
+    text-align: center;
+    color: rgb(10, 146, 146);
+}

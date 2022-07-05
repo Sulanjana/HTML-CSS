@@ -1,0 +1,18 @@
+.container{
+    width: 500px;
+    border: 1px solid grey;
+    margin: auto;
+}
+.kotak{
+    width: 70px;
+    height: 70px;
+    margin: 2px;
+    color: aliceblue;
+    background-color: cadetblue;
+    text-align: center;
+    line-height: 70px;
+    float: right;
+}
+.clear{
+    clear: right;
+}

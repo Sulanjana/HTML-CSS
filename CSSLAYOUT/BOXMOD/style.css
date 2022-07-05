@@ -1,0 +1,21 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+div{
+    width: 170px;
+    margin: auto;
+    box-sizing: border-box;
+}
+.lor{
+    
+    background-color: thistle;
+    padding: 30px;
+    border-left: 4px peru;
+    border-style: groove;
+}
+.em{
+    background-color: burlywood;
+    padding: 20px;
+    border: 20px solid greenyellow;
+}
